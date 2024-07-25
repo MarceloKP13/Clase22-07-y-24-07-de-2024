@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase22-07-2024\2. Ejercicio\bin\Debug\_2.Ejercicio.exe.config
+C:\Users\user\source\repos\Clase22-07-2024\2. Ejercicio\bin\Debug\_2.Ejercicio.exe
+C:\Users\user\source\repos\Clase22-07-2024\2. Ejercicio\bin\Debug\_2.Ejercicio.pdb
+C:\Users\user\source\repos\Clase22-07-2024\2. Ejercicio\obj\Debug\2. Ejercicio.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase22-07-2024\2. Ejercicio\obj\Debug\2. Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase22-07-2024\2. Ejercicio\obj\Debug\_2.Ejercicio.exe
+C:\Users\user\source\repos\Clase22-07-2024\2. Ejercicio\obj\Debug\_2.Ejercicio.pdb
